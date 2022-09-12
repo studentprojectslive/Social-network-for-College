@@ -1,0 +1,2 @@
+Dear {{Customer}},
+Thanks for Registering haraaj.in. Your OTP for registration is {{otpnumber}}. Use this OTP to activate your account.
